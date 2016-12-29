@@ -15,6 +15,7 @@ Contents:
 
 # General Python
 
+* [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) - Kenneth Reitz et al. guide to various topics of Python development 
 * [Built-in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s) - Fun talk about built-in types by Dave Beazley from PyData 2016
 
 # Object-Oriented Programming
