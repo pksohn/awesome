@@ -13,6 +13,10 @@ Contents:
 
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html) - Python-based course with interactive console
 
+# General Javascript
+
+* [Eloquent Javascript](http://eloquentjavascript.net/) - Ebook with interactive console
+
 # General Python
 
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) - Kenneth Reitz et al. guide to various topics of Python development 
