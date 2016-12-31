@@ -5,6 +5,7 @@ My own list of helpful resources, interesting projects, and other miscellany, in
 
 Contents:
 * [Computer Science Basics](#computer-science-basics)
+* [General Javascript](#general-javascript)
 * [General Python](#general-python)
 * [Object-Oriented Programming](#object-oriented-programming)
 * [Statistics and Machine Learning](#statistics-and--machine-learning)
