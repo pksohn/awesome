@@ -7,6 +7,7 @@ Contents:
 * [Computer Science Basics](#computer-science-basics)
 * [General Javascript](#general-javascript)
 * [General Python](#general-python)
+* [Numerical Python Stack](#numerical-python-stack)
 * [Object-Oriented Programming](#object-oriented-programming)
 * [Statistics and Machine Learning](#statistics-and--machine-learning)
 
@@ -22,6 +23,10 @@ Contents:
 
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) - Kenneth Reitz et al. guide to various topics of Python development 
 * [Built-in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s) - Fun talk about built-in types by Dave Beazley from PyData 2016
+
+# Numerical Python Stack
+
+* [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
 # Object-Oriented Programming
 
