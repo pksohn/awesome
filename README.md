@@ -18,6 +18,7 @@ Contents:
 # General Javascript
 
 * [Eloquent Javascript](http://eloquentjavascript.net/) - Ebook with interactive console
+* [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
 
 # General Python
 
