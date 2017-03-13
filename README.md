@@ -14,6 +14,7 @@ Contents:
 # Computer Science Basics
 
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html) - Python-based course with interactive console
+* [Teach Yourself CS](https://teachyourselfcs.com/) - Overview of important categories, books, and video lectures
 
 # General Javascript
 
