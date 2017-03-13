@@ -28,7 +28,7 @@ Contents:
 
 # Numerical Python Stack
 
-* [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+* [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/) - Really nice explanations of vectorization and in-depth Numpy examples
 
 # Object-Oriented Programming
 
