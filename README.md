@@ -15,6 +15,7 @@ Contents:
 
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html) - Python-based course with interactive console
 * [Teach Yourself CS](https://teachyourselfcs.com/) - Overview of important categories, books, and video lectures
+* [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) - Jupyter Notebook-based coding challenges on algorithms and data structures
 
 # General Javascript
 
