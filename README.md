@@ -39,3 +39,5 @@ Contents:
 # Other Resources
 
 * [Big list of public APIs](https://github.com/abhishekbanthia/Public-APIs)
+* [Stack on a budget](https://github.com/255kb/stack-on-a-budget) - list of free/cheap deployment services
+* [Free-for-dev](https://github.com/ripienaar/free-for-dev) - more free-tier services
