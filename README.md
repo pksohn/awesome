@@ -17,6 +17,7 @@ Contents:
 * [Teach Yourself CS](https://teachyourselfcs.com/) - Overview of important categories, books, and video lectures
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) - Jupyter Notebook-based coding challenges on algorithms and data structures
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Huge list of resources someone put together for their self-study for a Google interview
+* [Algorithms and Data Structures in Python](https://github.com/keon/algorithms) - Minimal examples
 
 # Javascript
 
