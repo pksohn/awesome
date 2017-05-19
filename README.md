@@ -1,6 +1,6 @@
 # awesome
 
-My own list of helpful resources, interesting projects, and other miscellany, in the tradition of [Awesome Python](https://github.com/vinta/awesome-python), 
+My own list of helpful resources, interesting projects, and other miscellany, in the tradition of [Awesome Python](https://github.com/vinta/awesome-python),
 [Awesome Javascript](https://github.com/sorrycc/awesome-javascript), [meta-Awesome](https://github.com/sindresorhus/awesome), etc.
 
 Contents:
@@ -28,7 +28,7 @@ Contents:
 
 * [Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) - Great Youtube series by Corey Schafer  
 * [Python Design Patterns](https://github.com/faif/python-patterns) - Design Patterns (mostly based on Gang of Four) implemented in Python
-* [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) - Kenneth Reitz et al. guide to various topics of Python development 
+* [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) - Kenneth Reitz et al. guide to various topics of Python development
 * [Built-in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s) - Fun talk about built-in types by Dave Beazley from PyData 2016
 * [PyFormat](https://pyformat.info/) - Useful resource about string formatting
 * [Modern Pandas](https://tomaugspurger.github.io/modern-1.html) - Good tutorial on Pandas (more up to date than Wes McKinney's original book
@@ -44,3 +44,17 @@ Contents:
 * [Big list of public APIs](https://github.com/abhishekbanthia/Public-APIs)
 * [Stack on a budget](https://github.com/255kb/stack-on-a-budget) - list of free/cheap deployment services
 * [Free-for-dev](https://github.com/ripienaar/free-for-dev) - more free-tier services
+
+# PyCon 2017
+
+Just a dump of resources and links:
+
+* https://github.com/nd1/pycon_2017
+* https://hynek.me/talks/reliability/
+* http://hypothesis.works/articles/what-is-hypothesis/
+* http://lcamtuf.coredump.cx/afl/
+* https://rollbar.com/
+* https://twitter.com/sanacodes/status/865703341786972160
+* https://twitter.com/mxmoss/status/865703669110497280
+* https://twitter.com/LyonesGamer/status/865701057933918209
+* http://intro2017.trey.io/
