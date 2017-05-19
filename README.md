@@ -47,11 +47,12 @@ Contents:
 
 # PyCon 2017
 
-Just a dump of resources and links:
+Just a dump of resources and links I'm finding/hearing about:
 
 * https://github.com/nd1/pycon_2017
 * https://hynek.me/talks/reliability/
 * http://hypothesis.works/articles/what-is-hypothesis/
+* https://github.com/sixty-north/cosmic-ray
 * http://lcamtuf.coredump.cx/afl/
 * https://rollbar.com/
 * https://twitter.com/sanacodes/status/865703341786972160
