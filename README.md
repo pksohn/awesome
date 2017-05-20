@@ -59,3 +59,6 @@ Just a dump of resources and links I'm finding/hearing about:
 * https://twitter.com/mxmoss/status/865703669110497280
 * https://twitter.com/LyonesGamer/status/865701057933918209
 * http://intro2017.trey.io/
+* http://matthewrocklin.com/slides/pycon-2017.html#/
+* https://github.com/kscottz/PythonFromSpace
+* https://speakerdeck.com/erikrose/constructive-code-review
