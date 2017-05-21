@@ -47,7 +47,7 @@ Contents:
 
 # PyCon 2017
 
-Just a dump of resources and links I'm finding/hearing about:
+Just a dump of resources and links:
 
 * https://github.com/nd1/pycon_2017
 * https://hynek.me/talks/reliability/
@@ -62,3 +62,19 @@ Just a dump of resources and links I'm finding/hearing about:
 * http://matthewrocklin.com/slides/pycon-2017.html#/
 * https://github.com/kscottz/PythonFromSpace
 * https://speakerdeck.com/erikrose/constructive-code-review
+* https://archive.org/details/pycon-2017-looping
+* https://github.com/plamere/spotipy
+* https://github.com/markkohdev/spotify-api-starter
+* https://www.divio.com/en/blog/documentation/
+* https://github.com/jonathanslenders/python-prompt-toolkit
+* https://docs.google.com/presentation/d/1_yTCAiAdWlSZdVgaXlm7qjBiG-Jpi592KgnI5eRZREQ/edit?usp=sharing
+* http://python.apichecklist.com/
+* http://bit.ly/abstraction-talk
+* https://www.youtube.com/watch?v=npw4s1QTmPg
+* http://langa.pl/random/talks/unicode.pdf
+* https://github.com/sversh/pycon2017-optimizing-pandas
+
+#### Talks I most want to watch later
+
+* [Readability Counts by Trey Hunner](https://youtu.be/knMg6G9_XCg)
+* [Jukka Lehtosalo, David Fisher Static Types for Python PyCon 2017](https://www.youtube.com/watch?v=7ZbwZgrXnwY)
