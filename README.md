@@ -78,3 +78,6 @@ Just a dump of resources and links:
 
 * [Readability Counts by Trey Hunner](https://youtu.be/knMg6G9_XCg)
 * [Jukka Lehtosalo, David Fisher Static Types for Python PyCon 2017](https://www.youtube.com/watch?v=7ZbwZgrXnwY)
+* [The Dictionary Even Mightier by Brandon Rhodes](https://www.youtube.com/watch?v=66P5FMkWoVU)
+* [Kelsey Hightower's Keynote](https://www.youtube.com/watch?v=u_iAXzy3xBA)
+* [Asynchronous Python for the Complete Beginner by Miguel Grinberg](https://www.youtube.com/watch?v=iG6fr81xHKA)
