@@ -31,7 +31,7 @@ Contents:
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) - Kenneth Reitz et al. guide to various topics of Python development
 * [Built-in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s) - Fun talk about built-in types by Dave Beazley from PyData 2016
 * [PyFormat](https://pyformat.info/) - Useful resource about string formatting
-* [Modern Pandas](https://tomaugspurger.github.io/modern-1.html) - Good tutorial on Pandas (more up to date than Wes McKinney's original book
+* [Modern Pandas](https://tomaugspurger.github.io/modern-1.html) - Good tutorial on Pandas (more up to date than Wes McKinney's original book. [Notebooks](https://github.com/TomAugspurger/effective-pandas) to go with.
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Set of introductory notebooks on numerical stack by Jake Vanderplas
 
 # Statistics and Machine Learning
@@ -49,6 +49,7 @@ Contents:
 
 Just a dump of resources and links:
 
+* [All the slide decks from PyCon](https://speakerdeck.com/pycon2017)
 * https://github.com/nd1/pycon_2017
 * https://hynek.me/talks/reliability/
 * http://hypothesis.works/articles/what-is-hypothesis/
@@ -81,3 +82,6 @@ Just a dump of resources and links:
 * [The Dictionary Even Mightier by Brandon Rhodes](https://www.youtube.com/watch?v=66P5FMkWoVU)
 * [Kelsey Hightower's Keynote](https://www.youtube.com/watch?v=u_iAXzy3xBA)
 * [Asynchronous Python for the Complete Beginner by Miguel Grinberg](https://www.youtube.com/watch?v=iG6fr81xHKA)
+
+#### Tutorials I most want to review
+* [Stuart Williams Python Epiphanies PyCon 2017](https://www.youtube.com/watch?v=oQca6eDcjA8)
