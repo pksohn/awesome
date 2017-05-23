@@ -31,7 +31,7 @@ Contents:
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) - Kenneth Reitz et al. guide to various topics of Python development
 * [Built-in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s) - Fun talk about built-in types by Dave Beazley from PyData 2016
 * [PyFormat](https://pyformat.info/) - Useful resource about string formatting
-* [Modern Pandas](https://tomaugspurger.github.io/modern-1.html) - Good tutorial on Pandas (more up to date than Wes McKinney's original book. [Notebooks](https://github.com/TomAugspurger/effective-pandas) to go with.
+* [Modern Pandas](https://tomaugspurger.github.io/modern-1.html) - Good tutorial on Pandas (more up to date than Wes McKinney's original book). [Notebooks](https://github.com/TomAugspurger/effective-pandas) to go with.
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Set of introductory notebooks on numerical stack by Jake Vanderplas
 
 # Statistics and Machine Learning
