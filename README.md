@@ -21,6 +21,7 @@ Contents:
 
 # Javascript
 
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Online book; covers ES6
 * [Eloquent Javascript](http://eloquentjavascript.net/) - Ebook with interactive console
 * [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
 
