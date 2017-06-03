@@ -19,11 +19,12 @@ Contents:
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Huge list of resources someone put together for their self-study for a Google interview
 * [Algorithms and Data Structures in Python](https://github.com/keon/algorithms) - Minimal examples
 
-# Javascript
+# Javascript and Web Dev
 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Online book; covers ES6
 * [Eloquent Javascript](http://eloquentjavascript.net/) - Ebook with interactive console
 * [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
+* [Feather](https://feathericons.com/) - Open source icons
 
 # Python
 
