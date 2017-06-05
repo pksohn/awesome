@@ -35,6 +35,7 @@ Contents:
 * [PyFormat](https://pyformat.info/) - Useful resource about string formatting
 * [Modern Pandas](https://tomaugspurger.github.io/modern-1.html) - Good tutorial on Pandas (more up to date than Wes McKinney's original book). [Notebooks](https://github.com/TomAugspurger/effective-pandas) to go with.
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Set of introductory notebooks on numerical stack by Jake Vanderplas
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) - Well known book with general Python lessons. Includes some helpful intermediate concepts, like composition vs. inheritance.
 
 # Statistics and Machine Learning
 
