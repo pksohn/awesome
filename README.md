@@ -26,6 +26,7 @@ Contents:
 * [Eloquent Javascript](http://eloquentjavascript.net/) - Ebook with interactive console
 * [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
 * [Feather](https://feathericons.com/) - Open source icons
+* [Callback Hell](http://callbackhell.com/) - An intro to asynchronous Javascript, and some helpful patterns
 
 # Python
 
