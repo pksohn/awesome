@@ -43,6 +43,7 @@ Contents:
 
 * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/) - Really nice explanations of vectorization and in-depth Numpy examples
 * [Top-Down machine learning for software engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+* [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78) - Medium post
 
 # Other Resources
 
