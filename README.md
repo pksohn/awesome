@@ -27,6 +27,7 @@ Contents:
 * [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
 * [Feather](https://feathericons.com/) - Open source icons
 * [Callback Hell](http://callbackhell.com/) - An intro to asynchronous Javascript, and some helpful patterns
+* [Animated Chrome Dev Tools Features](https://medium.com/dev-channel/increase-your-web-development-skill-set-150-animated-tips-on-chrome-devtools-4a30155e6b8e)
 
 # Python
 
