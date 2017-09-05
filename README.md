@@ -50,6 +50,7 @@ Contents:
 
 # Other Resources
 
+* [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 * [Best Practices for Web API development](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [Big list of public APIs](https://github.com/abhishekbanthia/Public-APIs)
 * [Stack on a budget](https://github.com/255kb/stack-on-a-budget) - list of free/cheap deployment services
