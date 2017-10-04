@@ -46,6 +46,7 @@ Contents:
 
 * [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/) - A very helpful walkthrough of Flask/Heroku/SQLAlchemy/Alembic back-end
 * [How Flask, Heroku, and Alembic play together](https://nyghtowl.io/2013/09/15/how-flask-heroku-alembic-play-together/)
+* [Explore Flask](https://exploreflask.com/en/latest/) - Free Flask textbook
 
 # Statistics and Machine Learning
 
