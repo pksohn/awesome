@@ -30,6 +30,7 @@ Contents:
 * [Callback Hell](http://callbackhell.com/) - An intro to asynchronous Javascript, and some helpful patterns
 * [Animated Chrome Dev Tools Features](https://medium.com/dev-channel/increase-your-web-development-skill-set-150-animated-tips-on-chrome-devtools-4a30155e6b8e)
 * [Adobe Color Wheel](https://color.adobe.com)
+* [Simple React Patterns](http://lucasmreis.github.io/blog/simple-react-patterns/)
 
 # Python
 
