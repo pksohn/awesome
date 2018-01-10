@@ -11,7 +11,7 @@ Contents:
 * [Other Resources](#other-resources)
 
 
-# Computer Science Basics
+# Computer Science and General Software Engineering
 
 * [Google Tech Dev Guide](https://techdevguide.withgoogle.com) - Lots of foundational CS resources
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html) - Python-based course with interactive console
@@ -20,6 +20,7 @@ Contents:
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Huge list of resources someone put together for their self-study for a Google interview
 * [Algorithms and Data Structures in Python](https://github.com/keon/algorithms) - Minimal examples
 * [Visualgo](https://visualgo.net/) - Visualized algorithms and data structures
+* [Refactoring Guru - Design Patterns](https://refactoring.guru/design-patterns/what-is-pattern)
 
 # Javascript, UI, Web Design
 
